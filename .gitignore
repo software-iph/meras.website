@@ -1,0 +1,7 @@
+# macOS zip leftovers
+__MACOSX/
+.DS_Store
+._*
+
+# Font style guide (18 MB, not used by the site)
+assets/fonts/Thmanyah-Font-Family (1)/دليل جماليات خط ثمانية.pdf
